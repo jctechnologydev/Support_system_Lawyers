@@ -35,19 +35,17 @@ The development team employed GitHub for version control and utilized Jira for p
 
 ## Screenshots
 
-*Note: Replace `IMAGE_PATH` with the relative path or URL to your images.*
-
 ### View Articles
-![View Articles](IMAGE_PATH/view_articles.png)
+![View Articles](https://joeljonassi.github.io/assets/images/JuriTech_Project_v1.0/Processo-Get.png)
 
 ### Create Deadlines
 ![Create Deadlines](https://joeljonassi.github.io/assets/images/JuriTech_Project_v1.0/Prazo-Create.png)
 
 ### Upload Documents
-![Upload Documents](IMAGE_PATH/upload_documents.png)
+![Upload Documents](https://joeljonassi.github.io/assets/images/JuriTech_Project_v1.0/uploadDocuments.png)
 
 ### User Interface
-![User Interface](IMAGE_PATH/user_interface.png)
+![User Interface](https://joeljonassi.github.io/assets/images/JuriTech_Project_v1.1/Login.png)
 
 ## Conclusion
 
